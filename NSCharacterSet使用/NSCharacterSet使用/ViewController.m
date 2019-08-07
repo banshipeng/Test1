@@ -82,6 +82,7 @@
    NSString * string6 = [arr1 componentsJoinedByString:@""];
     NSLog(@"string6==%@",string6);
     
+//    新添加的内容
     
 }
 //  5.  判断字符串是否只包含数字
